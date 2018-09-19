@@ -20,6 +20,12 @@ The project is hosted on GitHub_. Contributions are welcome.
 
 .. _GitHub: https://github.com/savoirfairelinux/num2words
 
+Read this in other languages: English_, Español_
+
+.. _English: ./README.rst
+
+.. _Español: ./README.es.rst
+
 Installation
 ------------
 
